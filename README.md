@@ -3,10 +3,10 @@ CustomSurfaceSlicer is a tool for generating G-code with customizable non-planar
 
 
 # Main advantage:
-no restrictions on the slicer used to generate the G-code for the parallel-layered portion;
-the ability to select specific surfaces for non-planar methodology application;
-the flexibility to modify the extracted surface according to design requirements;
-the capability to introduce new deposition patterns;
+- no restrictions on the slicer used to generate the G-code for the parallel-layered portion;
+- the ability to select specific surfaces for non-planar methodology application;
+- the flexibility to modify the extracted surface according to design requirements;
+- the capability to introduce new deposition patterns;
 
 
 The main code generates the non-planar path, while the auxiliary scripts are useful for making small modifications.
